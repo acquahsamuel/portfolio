@@ -1,0 +1,30 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "Open source portfolio  nodejs and angular",
+  "main": "server.js",
+  "scripts": {
+    "start" : "",
+    "watch-js": "",
+    "watch-css": "",
+    "watch-node": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/acquahsamuel/portfolio.git"
+  },
+  "keywords": [
+    "Nodejs",
+    "Opensource",
+    "blog"
+  ],
+  "author": "Samuel Acquah",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/acquahsamuel/portfolio/issues"
+  },
+  "homepage": "https://github.com/acquahsamuel/portfolio#readme",
+  "dependencies": {
+    "concurrently": "^8.2.2"
+  }
+}
