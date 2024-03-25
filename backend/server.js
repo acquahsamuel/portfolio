@@ -62,11 +62,11 @@ app.use(hpp());
 app.use(cors());
 
 // Enable ejs as view engine
-app.set("view engine", "ejs");
-app.set("views", "views");
+// app.set("view engine", "ejs");
+// app.set("views", "views");
 
 // Set static folder
-app.use(express.static(path.join(__dirname, "public")));
+// app.use(express.static(path.join(__dirname, "public")));
 
 // Mount routers
 
