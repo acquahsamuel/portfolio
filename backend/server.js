@@ -22,7 +22,6 @@ dotenv.config({ path: "./config.env" });
 connectDB();
 
 // Route files in
-
 const app = express();
 
 // Body parser
